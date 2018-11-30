@@ -127,3 +127,16 @@ print(roster[1:3])
 #### 1.5. TensorFlow 
 TensorFlow is a Python-friendly open source library for numerical computation that makes **machine learning** and **deep learning** faster and easier
 ![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_008.jpg)
+
+
+> - 1.5.1. Setup project and Project Outline
+
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_009.png)
+
+> - 1.5.1. How to Import TensorFlow to PyCharm, Install package **tensorflow**
+
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_010.png)
+
+
+
+
