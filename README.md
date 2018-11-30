@@ -36,5 +36,7 @@ python3 -V
 
 ![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_003.png)
 
+#### 1.2. Explore Example (file Code.zip)
 
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_004.png)
 
