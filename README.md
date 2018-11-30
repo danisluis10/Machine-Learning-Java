@@ -47,4 +47,83 @@ python3 -V
 ![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_006.png)
 
 #### 1.4. Python Language Basics
+> - 1.4.1. Variables in Python language.
 
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_007.png)
+
+> - 1.4.2. Variable Operations and Conversions
+
+```py
+# assignment, arithmetic, and conditional operators
+
+isVisaCredit = False
+isVisaCredit = not isVisaCredit
+print(isVisaCredit)
+
+# + - * / % // += -= *= /=
+bank_balance = 1000 + payCheck
+print(bank_balance)
+print(5%2)
+print(type(5%2))
+print(5/2)
+print(type(5/2))
+print(5//2)
+print(type(5//2))
+
+numbers = [0, 1, 2, 3]
+temp = 0
+for x in numbers:
+    temp += x
+    print(temp)
+
+# > >= < <= == !=
+print(5 != 2)
+print("a" > "b")
+
+year = 2018
+print(type(2018))
+year = '2018'
+print(type(year))
+year = "2018"
+print(type(year))
+
+# Convert from Float to Int
+a = 9.81
+print(int(a))
+print(float(2))
+
+# Convert number to String
+y = 1255645.255
+print(str(y))
+print(type(str(y)))
+```
+
+> - 1.4.3. Collection Types
+
+```py
+# Collections: tuples, lists, dictionaries
+# Operations
+
+full_name = ('Nimish', "Narang")
+print(full_name)
+full_name = ('John', 'Smith')
+print(full_name)
+
+inventory_item = ('apple', 5)
+print(inventory_item)
+
+roster = ['Nimish', 'John', 'Kate', 'Sarah', 'Kevin']
+print(roster)
+
+inventory = {'apple': 5, 'knife': 1, 'shoes': 2}
+print(inventory)
+
+print(full_name[0])
+print(roster[1:3])
+```
+
+> - 1.4.3. Operations on Collections
+
+#### 1.5. TensorFlow 
+TensorFlow is a Python-friendly open source library for numerical computation that makes **machine learning** and **deep learning** faster and easier
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_008.png)
