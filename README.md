@@ -49,3 +49,51 @@ python3 -V
 #### 1.4. Python Language Basics
 > - 1.4.1. Variables in Python language.
 
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_007.png)
+
+> - 1.4.2. Variable Operations and Conversions
+
+```py
+# assignment, arithmetic, and conditional operators
+
+isVisaCredit = False
+isVisaCredit = not isVisaCredit
+print(isVisaCredit)
+
+# + - * / % // += -= *= /=
+bank_balance = 1000 + payCheck
+print(bank_balance)
+print(5%2)
+print(type(5%2))
+print(5/2)
+print(type(5/2))
+print(5//2)
+print(type(5//2))
+
+numbers = [0, 1, 2, 3]
+temp = 0
+for x in numbers:
+    temp += x
+    print(temp)
+
+# > >= < <= == !=
+print(5 != 2)
+print("a" > "b")
+
+year = 2018
+print(type(2018))
+year = '2018'
+print(type(year))
+year = "2018"
+print(type(year))
+
+# Convert from Float to Int
+a = 9.81
+print(int(a))
+print(float(2))
+
+# Convert number to String
+y = 1255645.255
+print(str(y))
+print(type(str(y)))
+```
