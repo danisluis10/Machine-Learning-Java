@@ -1,6 +1,7 @@
-# MACHINE LEARNING JAVA [![Build Status](https://www.udemy.com/courses/search/?src=ukw&q=Machine+learning+Java)
+# MACHINE LEARNING JAVA [![Build Status](https://travis-ci.org/nomensa/jquery.hide-show.svg)](https://travis-ci.org/nomensa/jquery.hide-show.svg?branch=master)
 
-   ```Regex Java In Android.```
+   ```Machine Learning Java.```
+   
 ## Understand `.`
 
 ![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/1.png)
