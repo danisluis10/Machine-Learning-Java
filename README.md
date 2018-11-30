@@ -40,3 +40,8 @@ python3 -V
 
 ![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_004.png)
 
+#### 1.3. Explore PyCharm and run program **HelloWorld.py**
+> - 1.3.1. Error **Please select a valid python interpreter**
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_005.png)
+
+
