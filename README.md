@@ -10,4 +10,31 @@
 
 ![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_002..png)
 
+> - 1.2.3 Step by step to install Python3.6
+ >> - Open terminal via Ctrl+Alt+T or searching for “Terminal” from app launcher. When it opens, run command to add the PPA:
+```
+sudo add-apt-repository ppa:jonathonf/python-3.6
+```
+>> - Then check updates and install Python 3.6 via commands:
+```
+sudo apt-get update
+sudo apt-get install python3.6
+```
+>> - To make python3 use the new installed python 3.6 instead of the default 3.5 release, run following 2 commands:
+```
+sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.5 1
+sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.6 2
+```
+>> - Finally switch between the two python versions for python3 via command:
+```
+sudo update-alternatives --config python3
+```
+>> - After selecting version 3.6:
+```
+python3 -V
+```
+
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_003..png)
+
+
 
