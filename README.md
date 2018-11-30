@@ -8,7 +8,7 @@
 
 > - 1.2.2 Install pyCharm successfully
 
-![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_002..png)
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_002.png)
 
 > - 1.2.3 Step by step to install Python3.6
  >> - Open terminal via Ctrl+Alt+T or searching for “Terminal” from app launcher. When it opens, run command to add the PPA:
@@ -34,7 +34,7 @@ sudo update-alternatives --config python3
 python3 -V
 ```
 
-![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_003..png)
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_003.png)
 
 
 
