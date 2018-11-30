@@ -3,7 +3,7 @@
 - https://www.udemy.com/courses/search/?src=ukw&q=Machine+learning+Java
 #### 1.2. Machine Learning Concept
 > - 1.2.1 Download **PyCharm**
-![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/1.png)
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_001..png)
 
 
 
