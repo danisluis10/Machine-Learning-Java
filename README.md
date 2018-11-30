@@ -47,4 +47,5 @@ python3 -V
 ![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_006.png)
 
 #### 1.4. Python Language Basics
+> - 1.4.1. Variables in Python language.
 
