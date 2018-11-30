@@ -97,3 +97,33 @@ y = 1255645.255
 print(str(y))
 print(type(str(y)))
 ```
+
+> - 1.4.3. Collection Types
+
+```py
+# Collections: tuples, lists, dictionaries
+# Operations
+
+full_name = ('Nimish', "Narang")
+print(full_name)
+full_name = ('John', 'Smith')
+print(full_name)
+
+inventory_item = ('apple', 5)
+print(inventory_item)
+
+roster = ['Nimish', 'John', 'Kate', 'Sarah', 'Kevin']
+print(roster)
+
+inventory = {'apple': 5, 'knife': 1, 'shoes': 2}
+print(inventory)
+
+print(full_name[0])
+print(roster[1:3])
+```
+
+> - 1.4.3. Operations on Collections
+
+#### 1.5. TensorFlow 
+TensorFlow is a Python-friendly open source library for numerical computation that makes **machine learning** and **deep learning** faster and easier
+![alt text](https://github.com/danisluis10/Machine-Learning-Java/blob/master/ai_008.png)
